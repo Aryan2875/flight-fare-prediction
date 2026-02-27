@@ -1,0 +1,501 @@
+Airline,Source,Destination,Total_Stops,Journey_Day,Journey_Month,Price
+SpiceJet,Kolkata,Delhi,2 stops,4,3,13382
+Vistara,Delhi,Hyderabad,1 stop,18,6,7437
+IndiGo,Delhi,Cochin,1 stop,30,1,8435
+SpiceJet,Chennai,Cochin,2 stops,5,7,7107
+SpiceJet,Kolkata,Cochin,2 stops,25,12,3560
+Vistara,Delhi,Cochin,2 stops,16,1,15329
+IndiGo,Chennai,Bangalore,1 stop,1,5,4826
+IndiGo,Kolkata,Cochin,2 stops,21,10,14421
+SpiceJet,Chennai,Bangalore,2 stops,14,8,15265
+Air India,Mumbai,Bangalore,non-stop,15,4,10629
+SpiceJet,Delhi,Cochin,non-stop,9,5,11325
+SpiceJet,Mumbai,Cochin,1 stop,15,4,10693
+SpiceJet,Kolkata,Delhi,2 stops,17,12,11264
+SpiceJet,Mumbai,Hyderabad,2 stops,25,12,15686
+Vistara,Mumbai,Cochin,non-stop,24,4,16716
+IndiGo,Kolkata,Delhi,1 stop,4,12,9721
+Vistara,Chennai,Delhi,non-stop,12,8,10373
+Vistara,Mumbai,Hyderabad,non-stop,27,2,8907
+Vistara,Chennai,Bangalore,non-stop,26,1,19127
+SpiceJet,Mumbai,Cochin,non-stop,5,3,8656
+Air India,Chennai,Hyderabad,2 stops,29,9,11984
+IndiGo,Kolkata,Cochin,2 stops,5,4,11286
+Air India,Mumbai,Delhi,non-stop,11,10,8901
+Vistara,Kolkata,Delhi,1 stop,28,5,7917
+Vistara,Mumbai,Bangalore,1 stop,6,2,11429
+Air India,Kolkata,Delhi,1 stop,7,4,17716
+Air India,Kolkata,Delhi,1 stop,24,2,18795
+Air India,Mumbai,Hyderabad,non-stop,14,2,14138
+Vistara,Mumbai,Cochin,2 stops,24,4,5530
+Vistara,Mumbai,Cochin,1 stop,11,6,8772
+IndiGo,Delhi,Hyderabad,non-stop,30,7,18476
+IndiGo,Chennai,Bangalore,1 stop,13,10,18751
+Vistara,Delhi,Cochin,1 stop,2,3,5964
+Air India,Delhi,Delhi,non-stop,25,3,10137
+Air India,Kolkata,Cochin,2 stops,7,10,19920
+IndiGo,Mumbai,Delhi,2 stops,20,6,16891
+Vistara,Chennai,Bangalore,non-stop,4,12,10340
+IndiGo,Kolkata,Hyderabad,2 stops,27,3,10967
+IndiGo,Delhi,Cochin,non-stop,8,2,15415
+SpiceJet,Mumbai,Hyderabad,non-stop,20,8,14871
+SpiceJet,Kolkata,Cochin,non-stop,29,5,14916
+SpiceJet,Mumbai,Delhi,2 stops,22,1,11734
+Air India,Kolkata,Hyderabad,non-stop,21,3,3845
+Vistara,Mumbai,Cochin,1 stop,19,10,5494
+Vistara,Delhi,Delhi,2 stops,13,8,15677
+Vistara,Chennai,Hyderabad,2 stops,14,4,15330
+Vistara,Delhi,Hyderabad,2 stops,10,7,8179
+SpiceJet,Chennai,Cochin,2 stops,11,10,9610
+Air India,Mumbai,Cochin,1 stop,2,12,9430
+Air India,Kolkata,Cochin,2 stops,25,2,10154
+SpiceJet,Delhi,Delhi,2 stops,26,7,16828
+Air India,Chennai,Cochin,non-stop,9,5,13145
+SpiceJet,Delhi,Hyderabad,2 stops,17,5,9488
+Vistara,Chennai,Hyderabad,1 stop,26,6,6850
+SpiceJet,Delhi,Cochin,1 stop,3,9,16564
+Vistara,Chennai,Cochin,1 stop,24,6,8078
+Vistara,Chennai,Bangalore,1 stop,6,12,15168
+IndiGo,Mumbai,Hyderabad,2 stops,5,8,8448
+SpiceJet,Chennai,Delhi,2 stops,5,7,12074
+IndiGo,Mumbai,Bangalore,1 stop,22,9,9406
+SpiceJet,Chennai,Cochin,1 stop,15,4,11800
+SpiceJet,Kolkata,Cochin,2 stops,23,2,17083
+IndiGo,Kolkata,Hyderabad,1 stop,17,7,4638
+IndiGo,Kolkata,Cochin,non-stop,9,6,13340
+SpiceJet,Chennai,Delhi,1 stop,3,1,4382
+Air India,Mumbai,Hyderabad,1 stop,20,11,4403
+Vistara,Mumbai,Cochin,non-stop,26,9,12011
+IndiGo,Chennai,Hyderabad,non-stop,17,9,6292
+Vistara,Kolkata,Cochin,2 stops,29,12,12011
+Air India,Kolkata,Cochin,2 stops,27,2,3419
+Air India,Mumbai,Cochin,non-stop,10,3,15411
+Air India,Kolkata,Delhi,non-stop,3,5,7517
+IndiGo,Delhi,Delhi,2 stops,18,5,18422
+Air India,Mumbai,Hyderabad,1 stop,18,1,12700
+IndiGo,Kolkata,Cochin,non-stop,30,8,8693
+Air India,Mumbai,Cochin,2 stops,17,12,3767
+Vistara,Delhi,Delhi,1 stop,24,8,17818
+Vistara,Mumbai,Cochin,non-stop,3,4,4549
+SpiceJet,Mumbai,Delhi,1 stop,3,7,12956
+Vistara,Mumbai,Cochin,2 stops,6,11,9140
+SpiceJet,Mumbai,Hyderabad,non-stop,13,10,13837
+Vistara,Delhi,Cochin,1 stop,24,3,6716
+IndiGo,Chennai,Cochin,non-stop,29,6,7481
+Vistara,Mumbai,Bangalore,1 stop,15,10,9548
+SpiceJet,Mumbai,Delhi,2 stops,25,10,7837
+SpiceJet,Kolkata,Cochin,2 stops,9,12,10758
+Air India,Mumbai,Cochin,non-stop,4,9,13900
+IndiGo,Kolkata,Bangalore,1 stop,14,1,10993
+Vistara,Chennai,Bangalore,non-stop,5,5,8542
+Air India,Delhi,Delhi,non-stop,2,4,17828
+Vistara,Delhi,Bangalore,1 stop,11,8,19052
+Vistara,Chennai,Hyderabad,1 stop,9,11,5385
+Air India,Delhi,Bangalore,1 stop,24,12,17308
+Air India,Chennai,Hyderabad,2 stops,3,1,3671
+Air India,Chennai,Delhi,non-stop,27,9,3163
+Air India,Chennai,Delhi,non-stop,28,6,11656
+Air India,Delhi,Delhi,2 stops,29,4,14234
+Vistara,Kolkata,Delhi,1 stop,9,12,7795
+Air India,Chennai,Delhi,2 stops,3,9,13634
+IndiGo,Mumbai,Hyderabad,2 stops,25,11,7798
+SpiceJet,Delhi,Hyderabad,2 stops,2,5,13749
+Air India,Chennai,Delhi,non-stop,12,5,8827
+Air India,Chennai,Bangalore,2 stops,10,12,7719
+Vistara,Mumbai,Cochin,non-stop,9,5,3593
+Air India,Kolkata,Delhi,non-stop,15,1,10394
+Air India,Kolkata,Bangalore,non-stop,8,1,17056
+Air India,Kolkata,Cochin,1 stop,25,8,13636
+Vistara,Chennai,Delhi,non-stop,5,12,3016
+Air India,Chennai,Delhi,non-stop,11,8,6191
+SpiceJet,Chennai,Hyderabad,1 stop,27,12,3392
+Vistara,Delhi,Cochin,non-stop,2,6,9272
+SpiceJet,Mumbai,Cochin,2 stops,24,12,19955
+Vistara,Chennai,Bangalore,2 stops,28,11,6631
+Air India,Mumbai,Hyderabad,non-stop,15,4,9172
+SpiceJet,Mumbai,Hyderabad,1 stop,6,2,12312
+Vistara,Kolkata,Hyderabad,2 stops,8,2,11906
+IndiGo,Delhi,Hyderabad,1 stop,27,9,19462
+Air India,Chennai,Cochin,1 stop,5,5,11080
+Vistara,Kolkata,Cochin,2 stops,16,4,10099
+IndiGo,Kolkata,Delhi,1 stop,26,10,17916
+Vistara,Chennai,Delhi,2 stops,18,1,10083
+IndiGo,Mumbai,Hyderabad,1 stop,6,7,12223
+Air India,Kolkata,Hyderabad,2 stops,5,3,7940
+SpiceJet,Mumbai,Hyderabad,non-stop,28,6,6456
+IndiGo,Delhi,Delhi,2 stops,16,5,10788
+Vistara,Mumbai,Bangalore,2 stops,13,5,5711
+Air India,Delhi,Bangalore,2 stops,28,11,14280
+IndiGo,Mumbai,Delhi,2 stops,5,5,19531
+Vistara,Kolkata,Delhi,1 stop,13,1,15089
+Vistara,Kolkata,Delhi,non-stop,17,1,13142
+Vistara,Delhi,Delhi,2 stops,18,3,19749
+IndiGo,Chennai,Delhi,1 stop,8,12,18587
+IndiGo,Delhi,Delhi,non-stop,13,10,12866
+IndiGo,Delhi,Hyderabad,non-stop,30,4,7531
+SpiceJet,Mumbai,Hyderabad,non-stop,29,5,15686
+IndiGo,Mumbai,Hyderabad,non-stop,19,2,8330
+IndiGo,Delhi,Hyderabad,2 stops,26,8,8510
+IndiGo,Kolkata,Delhi,2 stops,3,11,11964
+SpiceJet,Mumbai,Bangalore,1 stop,24,11,9493
+IndiGo,Chennai,Cochin,1 stop,8,2,13759
+Vistara,Mumbai,Delhi,1 stop,2,9,8439
+IndiGo,Mumbai,Cochin,non-stop,8,2,17473
+Vistara,Chennai,Bangalore,non-stop,27,9,12765
+Vistara,Delhi,Hyderabad,2 stops,13,7,16279
+Vistara,Chennai,Bangalore,non-stop,13,8,9511
+SpiceJet,Delhi,Delhi,non-stop,1,11,14483
+SpiceJet,Delhi,Hyderabad,non-stop,6,2,5376
+SpiceJet,Delhi,Delhi,1 stop,24,7,14824
+IndiGo,Chennai,Hyderabad,1 stop,19,12,9979
+Vistara,Delhi,Cochin,2 stops,16,6,12832
+SpiceJet,Kolkata,Cochin,non-stop,8,4,15504
+SpiceJet,Chennai,Cochin,non-stop,28,7,9910
+IndiGo,Kolkata,Bangalore,2 stops,1,4,17089
+SpiceJet,Delhi,Delhi,non-stop,27,2,5196
+IndiGo,Mumbai,Bangalore,non-stop,27,10,8978
+Air India,Delhi,Cochin,1 stop,16,12,3780
+SpiceJet,Kolkata,Delhi,2 stops,9,7,12908
+Air India,Kolkata,Cochin,2 stops,13,8,9303
+IndiGo,Chennai,Bangalore,2 stops,11,2,17686
+Vistara,Mumbai,Bangalore,2 stops,13,5,6983
+SpiceJet,Chennai,Bangalore,1 stop,25,1,12503
+IndiGo,Kolkata,Cochin,1 stop,21,7,19905
+Vistara,Delhi,Delhi,non-stop,10,8,16070
+Vistara,Mumbai,Delhi,non-stop,4,6,15232
+Air India,Delhi,Cochin,non-stop,27,5,7583
+IndiGo,Delhi,Delhi,non-stop,6,6,8946
+Vistara,Mumbai,Cochin,1 stop,28,2,19377
+SpiceJet,Chennai,Delhi,2 stops,7,1,10128
+SpiceJet,Delhi,Hyderabad,1 stop,5,7,14889
+Air India,Kolkata,Hyderabad,non-stop,11,7,15275
+Vistara,Delhi,Bangalore,1 stop,13,10,5461
+IndiGo,Mumbai,Hyderabad,2 stops,26,11,17291
+SpiceJet,Mumbai,Hyderabad,2 stops,25,10,17036
+Vistara,Mumbai,Hyderabad,1 stop,19,2,14435
+Vistara,Chennai,Cochin,1 stop,23,2,3685
+Air India,Delhi,Hyderabad,1 stop,10,1,15258
+SpiceJet,Chennai,Hyderabad,non-stop,10,10,18990
+SpiceJet,Chennai,Bangalore,1 stop,11,8,19422
+IndiGo,Mumbai,Hyderabad,1 stop,21,8,13736
+SpiceJet,Mumbai,Hyderabad,1 stop,30,1,7875
+IndiGo,Chennai,Delhi,2 stops,7,12,14182
+SpiceJet,Delhi,Bangalore,2 stops,18,11,5196
+Air India,Kolkata,Bangalore,non-stop,4,8,10165
+SpiceJet,Chennai,Bangalore,non-stop,2,9,18997
+IndiGo,Delhi,Bangalore,2 stops,14,4,17215
+IndiGo,Mumbai,Bangalore,2 stops,13,1,3301
+Air India,Mumbai,Bangalore,2 stops,29,1,17571
+SpiceJet,Delhi,Cochin,1 stop,12,3,12951
+SpiceJet,Kolkata,Hyderabad,1 stop,7,5,13773
+Air India,Mumbai,Bangalore,2 stops,2,5,19140
+SpiceJet,Mumbai,Hyderabad,1 stop,13,9,16057
+SpiceJet,Mumbai,Hyderabad,1 stop,14,10,15500
+IndiGo,Delhi,Cochin,non-stop,27,12,18921
+SpiceJet,Chennai,Bangalore,2 stops,17,2,14870
+SpiceJet,Mumbai,Delhi,2 stops,9,2,7082
+Air India,Chennai,Cochin,1 stop,17,6,16718
+Air India,Kolkata,Delhi,2 stops,8,9,13517
+Vistara,Mumbai,Hyderabad,non-stop,2,1,6754
+IndiGo,Mumbai,Hyderabad,non-stop,28,9,4724
+SpiceJet,Kolkata,Cochin,non-stop,24,9,4376
+SpiceJet,Mumbai,Cochin,2 stops,13,9,11706
+Vistara,Chennai,Delhi,2 stops,3,5,11894
+SpiceJet,Delhi,Bangalore,2 stops,16,9,19406
+IndiGo,Chennai,Delhi,2 stops,6,11,8926
+Vistara,Delhi,Cochin,2 stops,19,4,9251
+IndiGo,Delhi,Delhi,non-stop,30,2,12496
+Vistara,Chennai,Cochin,1 stop,7,6,6300
+Vistara,Chennai,Delhi,non-stop,10,4,11553
+Air India,Chennai,Cochin,2 stops,9,6,6727
+IndiGo,Chennai,Cochin,non-stop,2,3,19898
+SpiceJet,Kolkata,Cochin,2 stops,28,6,19832
+SpiceJet,Mumbai,Bangalore,2 stops,28,2,9019
+IndiGo,Delhi,Delhi,non-stop,15,2,18463
+SpiceJet,Chennai,Delhi,2 stops,30,9,13047
+SpiceJet,Chennai,Delhi,1 stop,5,7,14754
+IndiGo,Chennai,Cochin,2 stops,29,3,5520
+Vistara,Kolkata,Delhi,1 stop,22,11,6081
+IndiGo,Chennai,Delhi,1 stop,4,1,4428
+Vistara,Chennai,Cochin,2 stops,20,8,6967
+SpiceJet,Chennai,Hyderabad,non-stop,4,6,9445
+SpiceJet,Mumbai,Cochin,1 stop,18,7,17566
+SpiceJet,Kolkata,Delhi,non-stop,4,9,17042
+Air India,Chennai,Cochin,1 stop,27,5,14329
+Vistara,Delhi,Hyderabad,2 stops,17,1,5159
+Air India,Delhi,Cochin,2 stops,12,12,8132
+Air India,Delhi,Delhi,1 stop,22,10,17933
+IndiGo,Kolkata,Hyderabad,2 stops,17,7,13473
+Air India,Kolkata,Bangalore,1 stop,10,5,13805
+IndiGo,Delhi,Delhi,2 stops,22,3,6083
+IndiGo,Chennai,Hyderabad,non-stop,1,12,16944
+Air India,Kolkata,Hyderabad,2 stops,22,9,10604
+Vistara,Delhi,Bangalore,non-stop,26,1,18379
+Vistara,Delhi,Cochin,2 stops,24,1,6983
+Vistara,Chennai,Cochin,non-stop,27,1,4778
+Vistara,Mumbai,Delhi,2 stops,18,3,8110
+Vistara,Kolkata,Bangalore,non-stop,18,12,15087
+Air India,Chennai,Cochin,1 stop,14,6,5179
+Air India,Delhi,Bangalore,1 stop,15,10,12596
+SpiceJet,Delhi,Cochin,non-stop,29,11,8251
+Vistara,Chennai,Hyderabad,2 stops,12,3,12235
+Air India,Kolkata,Cochin,non-stop,4,8,17871
+SpiceJet,Mumbai,Bangalore,2 stops,27,10,4013
+Vistara,Mumbai,Hyderabad,1 stop,3,2,19610
+IndiGo,Delhi,Hyderabad,2 stops,20,9,4828
+SpiceJet,Kolkata,Hyderabad,1 stop,29,3,10909
+Air India,Mumbai,Bangalore,2 stops,12,5,8588
+IndiGo,Kolkata,Delhi,2 stops,7,10,16109
+IndiGo,Kolkata,Delhi,2 stops,29,8,5023
+IndiGo,Delhi,Delhi,non-stop,11,2,17537
+SpiceJet,Mumbai,Bangalore,non-stop,1,6,8891
+Air India,Chennai,Hyderabad,1 stop,6,12,4080
+IndiGo,Delhi,Delhi,1 stop,15,5,8036
+Vistara,Mumbai,Bangalore,non-stop,15,10,18379
+IndiGo,Mumbai,Delhi,1 stop,19,9,13822
+IndiGo,Mumbai,Cochin,non-stop,11,12,5563
+SpiceJet,Mumbai,Delhi,2 stops,26,5,6292
+SpiceJet,Mumbai,Delhi,1 stop,23,2,6586
+Air India,Kolkata,Hyderabad,1 stop,26,5,19087
+Vistara,Delhi,Bangalore,non-stop,2,12,19100
+SpiceJet,Kolkata,Hyderabad,1 stop,14,4,9643
+IndiGo,Chennai,Hyderabad,1 stop,2,11,6959
+Air India,Mumbai,Hyderabad,2 stops,29,7,14005
+IndiGo,Delhi,Hyderabad,1 stop,4,6,13775
+IndiGo,Mumbai,Hyderabad,2 stops,17,2,3161
+SpiceJet,Delhi,Delhi,non-stop,3,12,19029
+Air India,Kolkata,Hyderabad,1 stop,13,11,19977
+Vistara,Delhi,Hyderabad,2 stops,9,11,17226
+Vistara,Chennai,Bangalore,non-stop,7,5,14154
+SpiceJet,Chennai,Cochin,1 stop,15,7,15080
+SpiceJet,Delhi,Delhi,non-stop,23,11,6390
+Air India,Delhi,Delhi,1 stop,29,7,8997
+Vistara,Delhi,Delhi,non-stop,29,5,15693
+Vistara,Delhi,Hyderabad,non-stop,11,12,12324
+Vistara,Chennai,Hyderabad,2 stops,20,9,3541
+IndiGo,Mumbai,Hyderabad,non-stop,2,4,8093
+Vistara,Delhi,Bangalore,1 stop,15,11,16428
+IndiGo,Delhi,Cochin,1 stop,14,3,14166
+Air India,Chennai,Hyderabad,2 stops,20,4,19063
+IndiGo,Chennai,Cochin,1 stop,22,5,13258
+Air India,Kolkata,Bangalore,1 stop,11,6,19044
+Vistara,Delhi,Delhi,1 stop,27,3,8469
+Vistara,Kolkata,Hyderabad,non-stop,3,2,9256
+Air India,Chennai,Cochin,non-stop,17,4,13720
+SpiceJet,Chennai,Cochin,1 stop,30,5,4169
+Air India,Mumbai,Hyderabad,2 stops,12,4,3830
+SpiceJet,Delhi,Delhi,non-stop,24,11,4651
+IndiGo,Kolkata,Delhi,2 stops,28,12,12518
+IndiGo,Chennai,Delhi,1 stop,29,3,16258
+IndiGo,Chennai,Bangalore,1 stop,21,8,19184
+Vistara,Kolkata,Cochin,non-stop,15,10,4019
+IndiGo,Mumbai,Cochin,1 stop,16,4,13028
+SpiceJet,Chennai,Cochin,non-stop,5,2,15448
+IndiGo,Delhi,Bangalore,1 stop,27,2,15485
+Air India,Chennai,Cochin,1 stop,20,1,4283
+Air India,Delhi,Bangalore,non-stop,6,4,4733
+Vistara,Kolkata,Delhi,non-stop,19,10,19230
+Air India,Delhi,Hyderabad,non-stop,25,9,17472
+SpiceJet,Kolkata,Cochin,1 stop,5,11,15889
+IndiGo,Delhi,Cochin,1 stop,3,7,6471
+Vistara,Kolkata,Delhi,2 stops,27,12,12028
+IndiGo,Delhi,Hyderabad,non-stop,1,10,11329
+IndiGo,Mumbai,Bangalore,1 stop,26,7,5097
+SpiceJet,Delhi,Hyderabad,1 stop,28,7,17082
+Air India,Delhi,Delhi,non-stop,6,8,16930
+Air India,Mumbai,Delhi,2 stops,15,1,13077
+IndiGo,Chennai,Hyderabad,non-stop,2,10,9397
+Vistara,Chennai,Bangalore,2 stops,29,10,5757
+Air India,Delhi,Bangalore,1 stop,3,8,8017
+Vistara,Mumbai,Cochin,2 stops,17,4,19370
+Air India,Delhi,Bangalore,1 stop,25,4,10999
+Vistara,Kolkata,Hyderabad,non-stop,24,4,13195
+SpiceJet,Kolkata,Delhi,non-stop,12,6,5096
+Vistara,Delhi,Cochin,non-stop,18,7,18433
+SpiceJet,Chennai,Cochin,2 stops,15,6,13595
+SpiceJet,Chennai,Delhi,1 stop,12,1,18941
+Vistara,Delhi,Bangalore,non-stop,16,12,18078
+SpiceJet,Delhi,Delhi,non-stop,27,8,8105
+IndiGo,Kolkata,Bangalore,1 stop,8,10,5839
+SpiceJet,Chennai,Delhi,non-stop,28,11,6384
+Air India,Delhi,Hyderabad,1 stop,14,7,13851
+Vistara,Kolkata,Bangalore,1 stop,25,6,13053
+IndiGo,Chennai,Hyderabad,1 stop,17,6,16493
+Vistara,Mumbai,Cochin,1 stop,29,5,17139
+Air India,Kolkata,Delhi,1 stop,21,6,10531
+Air India,Chennai,Cochin,2 stops,8,12,7283
+Air India,Chennai,Cochin,non-stop,15,9,10736
+SpiceJet,Kolkata,Cochin,2 stops,27,10,10710
+SpiceJet,Mumbai,Cochin,non-stop,14,9,4619
+Vistara,Kolkata,Delhi,2 stops,18,10,16975
+Vistara,Chennai,Cochin,1 stop,20,8,15835
+IndiGo,Delhi,Delhi,non-stop,7,10,18261
+IndiGo,Delhi,Delhi,non-stop,3,9,4431
+Vistara,Kolkata,Hyderabad,2 stops,29,10,12067
+SpiceJet,Chennai,Bangalore,2 stops,12,8,7713
+Air India,Delhi,Bangalore,non-stop,21,8,12557
+Vistara,Chennai,Delhi,2 stops,24,1,12435
+IndiGo,Kolkata,Hyderabad,2 stops,28,10,7998
+SpiceJet,Delhi,Delhi,2 stops,26,11,3162
+Vistara,Chennai,Delhi,1 stop,3,5,4974
+Vistara,Delhi,Delhi,1 stop,20,4,11461
+SpiceJet,Kolkata,Hyderabad,2 stops,14,2,5014
+Vistara,Chennai,Bangalore,2 stops,15,8,12833
+SpiceJet,Delhi,Hyderabad,1 stop,25,3,10896
+Air India,Kolkata,Cochin,1 stop,30,4,3204
+SpiceJet,Delhi,Hyderabad,non-stop,14,12,19965
+SpiceJet,Delhi,Hyderabad,non-stop,7,7,12032
+SpiceJet,Mumbai,Hyderabad,1 stop,17,10,8347
+Vistara,Mumbai,Hyderabad,2 stops,30,9,5643
+Vistara,Kolkata,Bangalore,2 stops,12,2,11017
+SpiceJet,Mumbai,Cochin,2 stops,20,3,8560
+Vistara,Kolkata,Bangalore,2 stops,4,4,18892
+IndiGo,Mumbai,Bangalore,non-stop,9,10,17531
+IndiGo,Delhi,Hyderabad,1 stop,6,1,7000
+Vistara,Kolkata,Delhi,2 stops,16,7,17289
+Vistara,Kolkata,Delhi,non-stop,25,2,10927
+SpiceJet,Delhi,Bangalore,2 stops,28,5,18562
+Air India,Kolkata,Bangalore,1 stop,22,1,4171
+Vistara,Kolkata,Hyderabad,non-stop,22,3,14918
+IndiGo,Mumbai,Bangalore,1 stop,21,12,12135
+SpiceJet,Kolkata,Hyderabad,1 stop,21,2,9342
+Vistara,Chennai,Delhi,non-stop,2,1,14929
+IndiGo,Delhi,Delhi,non-stop,24,7,5539
+IndiGo,Mumbai,Cochin,non-stop,8,5,6959
+Air India,Mumbai,Delhi,non-stop,11,1,16183
+SpiceJet,Chennai,Bangalore,non-stop,13,6,8432
+SpiceJet,Delhi,Delhi,non-stop,17,5,4753
+Air India,Delhi,Hyderabad,non-stop,8,3,13123
+Air India,Mumbai,Delhi,2 stops,21,12,19376
+SpiceJet,Kolkata,Cochin,1 stop,18,7,9588
+SpiceJet,Mumbai,Delhi,non-stop,30,11,9304
+Vistara,Delhi,Hyderabad,2 stops,18,10,10345
+Vistara,Chennai,Hyderabad,2 stops,14,9,18352
+Air India,Mumbai,Bangalore,2 stops,15,9,3597
+Vistara,Delhi,Delhi,1 stop,6,9,5336
+IndiGo,Mumbai,Hyderabad,non-stop,11,2,12879
+Vistara,Kolkata,Cochin,2 stops,13,3,3572
+Vistara,Mumbai,Bangalore,1 stop,25,7,10521
+IndiGo,Mumbai,Cochin,1 stop,1,5,9171
+Air India,Delhi,Delhi,1 stop,28,2,16992
+IndiGo,Delhi,Delhi,2 stops,6,3,14861
+Vistara,Delhi,Delhi,non-stop,9,10,15464
+Air India,Mumbai,Bangalore,2 stops,8,6,4633
+Vistara,Kolkata,Hyderabad,2 stops,11,7,15485
+IndiGo,Chennai,Bangalore,non-stop,22,9,13849
+IndiGo,Chennai,Cochin,non-stop,19,1,6648
+Vistara,Delhi,Bangalore,non-stop,24,11,18177
+SpiceJet,Delhi,Cochin,1 stop,9,7,16140
+SpiceJet,Mumbai,Bangalore,non-stop,17,8,17357
+IndiGo,Chennai,Hyderabad,2 stops,12,12,16368
+IndiGo,Delhi,Cochin,non-stop,25,3,6137
+SpiceJet,Kolkata,Delhi,2 stops,14,4,3097
+SpiceJet,Kolkata,Delhi,1 stop,15,10,14407
+Vistara,Delhi,Bangalore,2 stops,16,6,15722
+Vistara,Delhi,Delhi,2 stops,22,10,15924
+SpiceJet,Chennai,Cochin,non-stop,22,7,6750
+Vistara,Chennai,Delhi,non-stop,28,4,11535
+Vistara,Mumbai,Hyderabad,2 stops,20,8,7666
+Air India,Chennai,Hyderabad,non-stop,1,5,19009
+Vistara,Kolkata,Bangalore,1 stop,10,1,19994
+IndiGo,Kolkata,Cochin,1 stop,8,4,4727
+Vistara,Delhi,Hyderabad,non-stop,18,3,4854
+Vistara,Chennai,Hyderabad,1 stop,28,9,13800
+SpiceJet,Mumbai,Cochin,non-stop,1,8,8055
+IndiGo,Kolkata,Delhi,2 stops,2,1,13271
+Vistara,Kolkata,Delhi,2 stops,1,11,15819
+Vistara,Mumbai,Bangalore,1 stop,1,6,12369
+Air India,Mumbai,Delhi,non-stop,9,9,12283
+Vistara,Kolkata,Cochin,non-stop,13,7,16171
+Vistara,Kolkata,Hyderabad,1 stop,30,4,8774
+Air India,Mumbai,Delhi,2 stops,1,1,9519
+SpiceJet,Kolkata,Bangalore,1 stop,13,12,13983
+Vistara,Delhi,Delhi,2 stops,20,2,17939
+Air India,Delhi,Cochin,non-stop,26,12,3781
+IndiGo,Mumbai,Bangalore,2 stops,22,5,19282
+SpiceJet,Chennai,Delhi,1 stop,7,12,9823
+IndiGo,Mumbai,Bangalore,non-stop,2,11,10193
+IndiGo,Mumbai,Cochin,1 stop,6,5,5113
+Air India,Chennai,Hyderabad,1 stop,7,8,19280
+Vistara,Chennai,Cochin,2 stops,26,6,16565
+Air India,Chennai,Cochin,1 stop,14,8,13183
+Air India,Delhi,Cochin,2 stops,26,2,12203
+Air India,Kolkata,Cochin,non-stop,18,3,18795
+Air India,Delhi,Hyderabad,2 stops,15,6,16489
+SpiceJet,Kolkata,Hyderabad,non-stop,2,12,8546
+Vistara,Delhi,Bangalore,2 stops,10,10,9852
+IndiGo,Kolkata,Delhi,1 stop,23,3,5551
+IndiGo,Delhi,Hyderabad,2 stops,12,6,9411
+Vistara,Chennai,Hyderabad,2 stops,17,6,19391
+IndiGo,Mumbai,Delhi,non-stop,8,2,3475
+Vistara,Delhi,Hyderabad,1 stop,11,7,13403
+IndiGo,Kolkata,Cochin,2 stops,29,12,10239
+Air India,Chennai,Cochin,1 stop,3,2,9710
+IndiGo,Delhi,Delhi,2 stops,27,6,11078
+Vistara,Delhi,Bangalore,2 stops,6,1,5285
+Vistara,Chennai,Bangalore,1 stop,9,3,8223
+Vistara,Delhi,Delhi,2 stops,6,2,16521
+Vistara,Mumbai,Delhi,1 stop,9,7,17889
+Vistara,Delhi,Cochin,2 stops,7,4,9971
+SpiceJet,Mumbai,Bangalore,non-stop,9,8,14531
+SpiceJet,Mumbai,Hyderabad,1 stop,18,6,17721
+IndiGo,Chennai,Cochin,2 stops,12,12,7943
+Vistara,Delhi,Delhi,2 stops,8,10,9530
+IndiGo,Chennai,Bangalore,non-stop,8,4,14116
+Vistara,Delhi,Hyderabad,1 stop,18,5,3258
+Vistara,Delhi,Hyderabad,2 stops,28,9,3282
+SpiceJet,Kolkata,Cochin,non-stop,30,7,16937
+SpiceJet,Delhi,Bangalore,2 stops,20,10,4898
+Air India,Chennai,Bangalore,1 stop,30,9,7135
+SpiceJet,Mumbai,Delhi,2 stops,15,7,9629
+Air India,Delhi,Bangalore,2 stops,27,12,14168
+Air India,Kolkata,Bangalore,2 stops,7,1,3612
+Air India,Chennai,Cochin,2 stops,11,12,17203
+Air India,Delhi,Bangalore,non-stop,20,8,5307
+Air India,Chennai,Hyderabad,non-stop,16,4,10133
+IndiGo,Kolkata,Cochin,1 stop,4,3,14205
+SpiceJet,Kolkata,Cochin,non-stop,6,7,8906
+Air India,Chennai,Delhi,non-stop,26,12,5591
+Vistara,Delhi,Bangalore,1 stop,22,3,18149
+SpiceJet,Mumbai,Delhi,non-stop,26,8,15150
+SpiceJet,Kolkata,Hyderabad,non-stop,3,6,10183
+Air India,Delhi,Cochin,1 stop,9,5,13102
+IndiGo,Delhi,Cochin,1 stop,28,4,4283
+Air India,Mumbai,Cochin,1 stop,10,8,3923
+IndiGo,Kolkata,Hyderabad,2 stops,14,8,4125
+Vistara,Kolkata,Hyderabad,2 stops,11,12,4529
+SpiceJet,Delhi,Delhi,1 stop,18,1,11438
+Vistara,Delhi,Delhi,1 stop,22,9,19154
+IndiGo,Mumbai,Delhi,1 stop,12,5,11004
+IndiGo,Mumbai,Bangalore,2 stops,23,4,12752
+Vistara,Kolkata,Cochin,2 stops,12,6,13592
+IndiGo,Chennai,Cochin,non-stop,13,6,6864
+Vistara,Kolkata,Delhi,non-stop,25,2,3226
+SpiceJet,Delhi,Cochin,1 stop,13,8,18036
+Vistara,Kolkata,Delhi,2 stops,19,7,14739
+SpiceJet,Chennai,Bangalore,2 stops,26,1,19648
+Vistara,Mumbai,Bangalore,2 stops,19,5,12587
+IndiGo,Chennai,Hyderabad,1 stop,23,12,14749
+Vistara,Chennai,Bangalore,non-stop,14,6,3645
+IndiGo,Chennai,Delhi,1 stop,4,4,19299
+Vistara,Mumbai,Bangalore,non-stop,13,2,16675
+Vistara,Chennai,Hyderabad,non-stop,8,4,13964
+Air India,Chennai,Cochin,1 stop,29,1,19087
+IndiGo,Chennai,Delhi,non-stop,23,7,16537
+Air India,Delhi,Cochin,non-stop,21,2,16269
+IndiGo,Chennai,Hyderabad,2 stops,23,2,12346
+Air India,Mumbai,Hyderabad,non-stop,19,9,3587
+SpiceJet,Chennai,Hyderabad,1 stop,12,5,15763
+Vistara,Chennai,Cochin,1 stop,18,2,12177
+IndiGo,Mumbai,Cochin,non-stop,6,11,7079
+IndiGo,Chennai,Cochin,2 stops,18,9,6348
+Vistara,Mumbai,Cochin,2 stops,19,9,13785
+IndiGo,Chennai,Hyderabad,non-stop,22,1,15328
+IndiGo,Mumbai,Hyderabad,non-stop,5,11,9450
+Air India,Chennai,Delhi,1 stop,24,3,16230
+IndiGo,Chennai,Delhi,non-stop,9,4,8433
+SpiceJet,Delhi,Cochin,2 stops,27,7,4098
+SpiceJet,Delhi,Bangalore,non-stop,3,10,10096
+Vistara,Chennai,Bangalore,1 stop,28,4,14439
+IndiGo,Chennai,Hyderabad,1 stop,10,2,12087
+Vistara,Kolkata,Hyderabad,1 stop,19,7,19021
